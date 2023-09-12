@@ -1,5 +1,5 @@
 # OTRS-ZnunyLTS-Dynamic-Field-Widget
-- Built for OTRS CE 6.0.x and Znuny LTS
+- Built for OTRS CE 6.0.x, Znuny LTS adn Znuny 7.0.x Features
 - Use process management widget for dynamic field information at non process ticket
 
 		Admin > System Configuration > Ticket::Frontend::AgentTicketZoom###ProcessWidgetDynamicField
